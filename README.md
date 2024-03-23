@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Optimization Methods.
+- 🌱 I’m currently researching some financial problems about portfolio optimization.
 <!--
 **Nurxat21/Nurxat21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
